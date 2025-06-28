@@ -24,7 +24,7 @@ Sistema para gerenciamento de estoque de veículos em concessionárias. Permite 
 1. Clone o repositório  
 2. Configure o banco de dados e atualize as credenciais no arquivo de configuração  
 3. Execute o backend com `mvn spring-boot:run` ou equivalente  
-4. Inicie o frontend (se houver)  
+4. Inicie o frontend 
 5. Acesse a aplicação no navegador  
 
 ## Contribuição
